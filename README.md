@@ -1,1 +1,1 @@
-# demo
+This is a demo repository for getting started with github.
